@@ -1,1 +1,2 @@
-#two weeks with green day. I'm so sorry
+def square_root_bisection():
+    pass
