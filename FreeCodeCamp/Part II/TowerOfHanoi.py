@@ -2,6 +2,6 @@
 rods = {
     'A': [],
     'B': [],
-    'C': [],
-    'D': [] # need remove it
+    'C': []
 }
+rods['A'] = range(3, 0, -1)
